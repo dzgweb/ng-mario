@@ -24,7 +24,7 @@
     "@angular/build": "^22.1.8",
     "@angular/cli": "^22.1.8",
     "@angular/compiler-cli": "^22.1.6",
-    "prettier": "^3.8.1",
+    "prettier": "^3.9.8",
     "typescript": "~7.0.2"
   }
 }
